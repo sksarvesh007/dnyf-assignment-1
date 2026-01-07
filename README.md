@@ -66,12 +66,7 @@ dnyf-assignment-1/
 4. Set up Kaggle credentials for dataset access (required by `kagglehub`).
 
 ## Usage
-
-Run the evaluation:
-
-```bash
-uv run python simple_evaluation.py
-```
+Run the code blocks present in the jupyter notebook present in `notebooks` folder
 
 This will:
 1. Download the Yelp reviews dataset from Kaggle
